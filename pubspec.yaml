@@ -4,9 +4,6 @@ author: Crater Dev Team <dev@crater.land>
 homepage: https://github.com/kmorkos/flutter_photokit
 version: 0.1.1
 
-environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
-
 dependencies:
   flutter:
     sdk: flutter
